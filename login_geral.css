@@ -1,0 +1,201 @@
+﻿charset "UTF-8";
+body{
+width:98.5%;
+height: 100px;
+}
+div#menu{
+position:relative;
+margin-top:-16px;
+margin-left: -10px;
+width: 101.6%;
+height:80px;
+background-color: #1E90FF;
+}
+
+	   
+nav#menu ul{
+position:relative;
+top:-105px;
+margin-left: 25%;
+list-style:none;
+
+}
+nav#menu li{
+
+display: inline-block;
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl1 ul{
+position:relative;
+top:-140px;
+margin-left: 80%;
+list-style:none;
+
+}
+nav#cl1 li{
+display: inline-block;
+ margin: -7%;
+ margin-left:7%;
+ text-decoration:none;
+color:#fff;
+}
+nav#cl1 a{
+
+text-decoration:none;
+color:#fff;
+}
+div#usuario{
+position: relative;
+margin-left:-0.7%;
+margin-top:-1.1%;
+background-image: url("img/paciente.jpg");
+width:50.8%;
+height: 601px;
+}
+div#usuario h1{
+font-family: 'Roboto', sans-serif;
+color:#fff;
+text-align:center;
+}
+div#usuario h1:hover{
+text-shadow: 0 0 8px #fff;
+}
+div#usuario a{
+text-decoration:none;
+}
+div#clinica{
+position: relative;
+margin-left:50.2%;
+margin-top: -39.7%;
+background-image: url("img/medico.jpg");
+width:50.8%;
+height: 601px;
+}
+div#clinica h1{
+font-family: 'Roboto', sans-serif;
+color:#fff;
+text-align:center;
+}
+div#clinica h1:hover{
+text-shadow: 0 0 8px #fff;
+}
+div#clinica a{
+text-decoration:none;
+}
+footer#degrade{
+position:relative;
+margin-top:-0.4%;
+margin-left: -10px;
+width: 101.5%;
+height:230px;
+background-color:rgb(50, 126, 199);
+display: block;
+
+}
+footer#degrade img{
+position:relative;
+margin-left: 18%;
+}
+footer#degrade p{
+position:relative;
+margin-left: 15%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-size:8pt;
+}
+footer#degrade h4{
+position:relative;
+top: -19%;
+margin-left: 65%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-weight:none;
+}
+nav#sc ul{
+position:relative;
+top:-35px;
+margin-left: 58.5%;
+list-style:none;
+}
+nav#sc li{
+
+display: inline-block;
+ margin: -4%;
+ margin-left:7%;
+}
+
+nav#menu2{
+position:relative;
+margin-top: -10%;
+margin-left: 2%;
+}
+nav#menu2 ul{
+position:relative;
+top:10px;
+margin-left: 25%;
+list-style:none;
+
+}
+nav#menu2 li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu2 a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl{
+position:relative;
+margin-top: -8%;
+margin-left: 2%;
+}
+nav#cl ul{
+position:relative;
+top:10px;
+margin-left: 37.5%;
+list-style:none;
+
+}
+nav#cl li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#cl a{
+
+text-decoration:none;
+color:#fff;
+}
+footer#rodape{
+display:block;
+position:relative;
+margin-top: -2%;
+margin-left: -10px;
+width: 101.5%;
+height:80px;
+background-color: 	#000000;
+}
+footer#rodape ul{
+position:relative;
+top:10px;
+margin-left: 25%;
+list-style:none;
+
+}
+footer#rodape li{
+
+display: inline-block;
+ margin: 2%;
+ color:#fff;
+}
+footer#rodape a{
+text-decoration:none;
+color:#fff;
+}
+

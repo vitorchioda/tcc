@@ -1,0 +1,398 @@
+﻿@charset "UTF-8";
+body{
+width:98.6%;
+height:1300px;
+}
+div#menu{
+position:relative;
+margin-top:-16px;
+margin-left: -10px;
+width: 101.6%;
+height:80px;
+background-color: #1E90FF;
+}
+div#meio{
+position: relative;
+top:0%;
+left:-0.7%;
+background-color:black;
+width: 101.7%;
+background-color:rgb(55, 69, 77);
+}
+div#divBusca{
+position: relative;
+top:-12%;
+left:-11.8%;
+width: 101.5%;
+height: 0px;
+}
+input.campo{
+position: relative;
+color: black;
+margin-left: 220%;
+height: 24px;
+width:404.5%;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+input.pesquisa{
+position: relative;
+height: 30px;
+margin-left:1494%;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;
+}
+fieldset.anuncio{
+width: 75%;
+height: 155px;
+position: relative;
+margin-left:12%;
+background-color: #fff;
+}
+fieldset.anuncio h2{
+position: relative;
+margin-top:-12.5%;
+margin-left:18%;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset.anuncio p{
+position: relative;
+margin-top:2%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset.imagem{
+width: 10%;
+background-color: #fff;
+}
+fieldset.anuncio a{
+text-decoration:none;
+color:black;
+}
+
+fieldset#anuncio2{
+width: 75%;
+height: 155px;
+position: relative;
+margin-left:12%;
+background-color: #fff;
+}
+fieldset#anuncio2 h2{
+position: relative;
+margin-top:-14%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#anuncio2 p{
+position: relative;
+margin-top:2%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#imagem2{
+width: 10%;
+background-color: #fff;
+}
+fieldset#anuncio2 a{
+text-decoration:none;
+color:black;
+}
+fieldset#anuncio3{
+width: 75%;
+height: 155px;
+position: relative;
+margin-left:12%;
+background-color: #fff;
+}
+fieldset#anuncio3 h2{
+position: relative;
+margin-top:-12.5%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#anuncio3 p{
+position: relative;
+margin-top:2%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#imagem3{
+width: 10%;
+background-color: #fff;
+}
+fieldset#anuncio3 a{
+text-decoration:none;
+color:black;
+}
+fieldset#anuncio4{
+width: 75%;
+height: 155px;
+position: relative;
+margin-left:12%;
+background-color: #fff;
+}
+fieldset#anuncio4 h2{
+position: relative;
+margin-top:-12.5%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#anuncio4 p{
+position: relative;
+margin-top:2%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#imagem4{
+width: 10%;
+background-color: #fff;
+}
+fieldset#anuncio4 a{
+text-decoration:none;
+color:black;
+}
+fieldset#anuncio5{
+width: 75%;
+height: 155px;
+position: relative;
+margin-left:12%;
+background-color: #fff;
+}
+fieldset#anuncio5 h2{
+position: relative;
+margin-top:-12.5%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+	text-decoration:none;
+}
+fieldset#anuncio5 p{
+position: relative;
+margin-top:2%;
+margin-left:18%;
+font-family: 'Roboto Condensed', sans-serif;
+}
+fieldset#anuncio5 a{
+text-decoration:none;
+color:black;
+}
+fieldset#imagem5{
+width: 10%;
+background-color: #fff;
+}
+/*
+input.preco{
+position: relative;
+margin-left: 180%;
+margin-top: -25%;
+}
+label.em{
+width: 50%;
+color:#fff;
+font-size: 10pt;
+margin-left:50%;
+}
+label.ca{
+color:#fff;
+font-size: 10pt;
+margin-left:50%;
+}
+select.em{
+position: relative;
+margin-left: 330%;
+margin-top: -5%;
+}
+select.ca{
+position: relative;
+margin-left: 350%;
+margin-top: -25%;
+}
+*/			   
+nav#menu ul{
+position:relative;
+top:-105px;
+margin-left: 30%;
+list-style:none;
+
+}
+nav#menu li{
+
+display: inline-block;
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl1 ul{
+position:relative;
+top:-140px;
+margin-left: 80%;
+list-style:none;
+
+}
+nav#cl1 li{
+display: inline-block;
+ margin: -7%;
+ margin-left:7%;
+ text-decoration:none;
+color:#fff;
+}
+nav#cl1 a{
+
+text-decoration:none;
+color:#fff;
+}
+
+footer#degrade{
+position:relative;
+margin-top: 3.7%;
+margin-left: -10px;
+width: 101.5%;
+height:230px;
+background-color:rgb(50, 126, 199);
+display: block;
+
+}
+footer#degrade img{
+position:relative;
+margin-left: 18%;
+}
+footer#degrade p{
+position:relative;
+margin-left: 15%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-size:8pt;
+}
+footer#degrade h4{
+position:relative;
+top: -19%;
+margin-left: 65%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-weight:none;
+}
+nav#sc ul{
+position:relative;
+top:-35px;
+margin-left: 58.5%;
+list-style:none;
+}
+nav#sc li{
+
+display: inline-block;
+ margin: -4%;
+ margin-left:7%;
+}
+
+nav#menu2{
+position:relative;
+margin-top: -10%;
+margin-left: 2%;
+}
+nav#menu2 ul{
+position:relative;
+top:10px;
+margin-left: 25%;
+list-style:none;
+
+}
+nav#menu2 li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu2 a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl{
+position:relative;
+margin-top: -8%;
+margin-left: 2%;
+}
+nav#cl ul{
+position:relative;
+top:10px;
+margin-left: 37.5%;
+list-style:none;
+
+}
+nav#cl li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#cl a{
+
+text-decoration:none;
+color:#fff;
+}
+footer#rodape{
+display:block;
+position:relative;
+margin-top: -2%;
+margin-left: -10px;
+width: 101.5%;
+height:80px;
+background-color: 	#000000;
+}
+footer#rodape ul{
+position:relative;
+top:10px;
+margin-left: 32%;
+list-style:none;
+
+}
+footer#rodape li{
+
+display: inline-block;
+ margin: 2%;
+ color:#fff;
+}
+footer#rodape a{
+text-decoration:none;
+color:#fff;
+}
+#subirTopo {
+text-decoration: none;
+background: black;
+bottom: 30px;
+right: 30px;
+color: #fff;
+text-align: center;
+cursor: pointer;
+padding: 15px;
+font-size: 15px;
+font-weight: bold;
+text-transform: uppercase;
+position: fixed;
+border: 0;
+font-family: sans-serif;
+opacity: .8;
+}
+
+#subirTopo:hover {
+opacity:1;
+}

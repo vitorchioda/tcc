@@ -1,0 +1,429 @@
+﻿@charset "UTF-8";
+body{
+width:98.6%;
+height:1300px;
+}
+div#menu{
+position:relative;
+margin-top:-16px;
+margin-left: -10px;
+width: 101.6%;
+height:80px;
+background-color: #1E90FF;
+}
+
+#divBusca{
+position:relative;
+top:-50px;
+  background-color:#fff;
+  border:solid 1px;
+  border-radius:15px;
+  width:200px;
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:5px;
+  width:120px;
+}
+nav#menu ul{
+position:relative;
+top:-105px;
+margin-left: 30%;
+list-style:none;
+
+}
+nav#menu li{
+
+display: inline-block;
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl1 ul{
+position:relative;
+top:-140px;
+margin-left: 80%;
+list-style:none;
+
+}
+nav#cl1 li{
+display: inline-block;
+ margin: -7%;
+ margin-left:7%;
+ text-decoration:none;
+color:#fff;
+}
+nav#cl1 a{
+
+text-decoration:none;
+color:#fff;
+}
+
+div#banner {
+position:relative;
+top:0px;
+left:-8px;
+width:101.4%;
+background-image: url("img/fundo1.png");
+background-repeat: no-repeat;
+}
+div#banner2{
+position:relative;
+width: 45%;
+top: -450px;
+left:150px;
+}
+div#banner2{
+color:#fff;
+}
+h1#sc{
+position:relative;
+margin-top:-10px;
+}
+
+div#banner2 p{
+text-align:justify;
+color:#fff;
+
+}
+section#corpo{
+position: relative;
+top: -150px;
+}
+section#corpo h1{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+font-weight: normal;
+font-size:28pt;
+}
+section#corpo p{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+color:#363636;
+font-size:14pt;
+}
+
+div#q1{
+position:relative;
+width:34%;
+height:300px;
+background-color: rgb(59, 175, 191);
+margin-left: -0.7%;
+margin-top:-7%;
+}
+div#q1 h3{
+position:relative;
+top:30%;
+color:#fff;
+text-align:center;
+font-family: 'Fira Sans', sans-serif;
+font-weight: normal;
+}
+div#q1 h3:hover{
+text-shadow: 0 0 8px #fff;
+}
+div#q1 img{
+position: relative;
+margin-left: 40%;
+margin-top:20%;
+}
+div#q1 p{
+position:relative;
+top: 3%;
+margin-left: 5px;
+text-align: center; 
+font-family: 'Fira Sans', sans-serif;
+color:#fff;
+font-size:12pt;
+margin-top: 20px;
+}
+div#q2{
+position:relative;
+width:34%;
+height:300px;
+background-color:rgb(54, 151, 195);
+margin-left: 33.3%;
+margin-top:-20.4%;
+}
+div#q2 h3{
+position:relative;
+top:30%;
+color:#fff;
+text-align:center;
+font-family: 'Fira Sans', sans-serif;
+font-weight: normal;
+}
+div#q2 h3:hover{
+text-shadow: 0 0 8px #fff;
+}
+div#q2 img{
+position: relative;
+margin-left: 40%;
+margin-top:20%;
+}
+div#q2 p{
+position:relative;
+top:-12%;
+margin-left: 5px;
+text-align: center; 
+font-family: 'Fira Sans', sans-serif;
+color:#fff;
+font-size:12pt;
+top: 5%;
+}
+div#q3{
+position:relative;
+width:34.2%;
+height:300px;
+background-color:rgb(50, 126, 199);
+margin-left:66.6%;
+margin-top:-20.4%;
+}
+div#q3 h3 {
+position:relative;
+top:30%;
+color:#fff;
+text-align:center;
+font-family: 'Fira Sans', sans-serif;
+font-weight: normal;
+}
+div#q3 a{
+position:relative;
+top:30%;
+color:#fff;
+text-align:center;
+font-family: 'Fira Sans', sans-serif;
+font-weight: normal;
+}
+div#q3 h3:hover{
+text-shadow: 0 0 8px #fff;
+}
+div#q3 img{
+position:relative;
+margin-left: 40%;
+margin-top:20%;
+}
+div#q3 p{
+position:relative;
+margin-left: 5px;
+top: -6%;
+text-align: center; 
+font-family: 'Fira Sans', sans-serif;
+color:#fff;
+font-size:12pt;
+margin-top: 50px;
+}
+section#sc{
+position: relative;
+top: 0px;
+}
+section#sc h1{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+font-weight: normal;
+font-size:28pt;
+}
+section#sc p{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+color:#363636;
+font-size:14pt;
+}
+section#sc li{
+list-style:none;
+display: inline-block;
+}
+section#vel{
+position:relative;
+width: 30%;
+}
+section#vel img{
+position: relative;
+left: 35%;
+}
+section#vel h2{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+}
+section#vel p{
+text-align: center;
+font-family: 'Roboto', sans-serif;
+}
+section#op{
+position:relative;
+width: 30%;
+margin-top: -15.8%;
+margin-left: 35%;
+height: 231px;
+}
+section#op img{
+position: relative;
+left: 38%;
+}
+section#op h2{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+}
+section#op p{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+}
+section#tempo{
+position:relative;
+width: 30%;
+margin-top: -14.8%;
+margin-left: 70%;
+}
+section#tempo img{
+position: relative;
+left: 35%;
+}
+section#tempo h2{
+text-align:center;
+font-family: 'Roboto', sans-serif;
+}
+section#tempo p{
+text-align: justify;
+font-family: 'Roboto', sans-serif;
+}
+footer#degrade{
+position:relative;
+margin-top: 3.7%;
+margin-left: -10px;
+width: 101.5%;
+height:230px;
+background-color:rgb(50, 126, 199);
+display: block;
+
+}
+footer#degrade img{
+position:relative;
+margin-left: 18%;
+}
+footer#degrade p{
+position:relative;
+margin-left: 15%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-size:8pt;
+}
+footer#degrade h4{
+position:relative;
+top: -19%;
+margin-left: 65%;
+color:#fff;
+font-family: 'Fira Sans', sans-serif;
+font-weight:none;
+}
+nav#sc ul{
+position:relative;
+top:-35px;
+margin-left: 58.5%;
+list-style:none;
+}
+nav#sc li{
+
+display: inline-block;
+ margin: -4%;
+ margin-left:7%;
+}
+
+nav#menu2{
+position:relative;
+margin-top: -10%;
+margin-left: 2%;
+}
+nav#menu2 ul{
+position:relative;
+top:10px;
+margin-left: 25%;
+list-style:none;
+
+}
+nav#menu2 li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#menu2 a{
+
+text-decoration:none;
+color:#fff;
+}
+nav#cl{
+position:relative;
+margin-top: -8%;
+margin-left: 2%;
+}
+nav#cl ul{
+position:relative;
+top:10px;
+margin-left: 37.5%;
+list-style:none;
+
+}
+nav#cl li{
+ margin: 2%;
+ margin-left:7%;
+}
+nav#cl a{
+
+text-decoration:none;
+color:#fff;
+}
+footer#rodape{
+display:block;
+position:relative;
+margin-top: -2%;
+margin-left: -10px;
+width: 101.5%;
+height:80px;
+background-color: 	#000000;
+}
+footer#rodape ul{
+position:relative;
+top:10px;
+margin-left: 32%;
+list-style:none;
+
+}
+footer#rodape li{
+
+display: inline-block;
+ margin: 2%;
+ color:#fff;
+}
+footer#rodape a{
+text-decoration:none;
+color:#fff;
+}
+#subirTopo {
+text-decoration: none;
+background: black;
+bottom: 30px;
+right: 30px;
+color: #fff;
+text-align: center;
+cursor: pointer;
+padding: 15px;
+font-size: 15px;
+font-weight: bold;
+text-transform: uppercase;
+position: fixed;
+border: 0;
+font-family: sans-serif;
+opacity: .8;
+}
+
+#subirTopo:hover {
+opacity:1;
+}

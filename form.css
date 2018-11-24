@@ -1,0 +1,42 @@
+﻿@charset "UTF-8"; 
+body{
+background-image: url("img/teste.jpg");
+background-repeat:no-repeat;
+}
+fieldset{
+position:relative;
+background-color:#fff;
+margin-top: 2%;
+margin-left: 62%;
+width:32%;	
+ border-width: 1px 1px 1px 1px;
+}
+
+input.volta{
+position: relative;
+margin-left:39%;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+input.proximo{
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+button{
+position: relative;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+label{
+font-family: 'Roboto Condensed', sans-serif;
+font-size:12pt;
+}
+table#t2{
+margin-left:30%;
+}

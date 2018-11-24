@@ -1,0 +1,45 @@
+﻿@charset "UTF-8"; 
+body{
+}
+fieldset{
+position:relative;
+background-color:#fff;
+margin-top: 5%;
+margin-left: 30%;
+width:30%;
+ border-width: 1px 1px 1px 1px;	
+}
+input.volta{
+position: relative;
+margin-top: 20%;
+margin-left: 35%;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+input.Cadastrar{
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+
+button{
+position: relative;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+label{
+font-family: 'Roboto Condensed', sans-serif;
+font-size:12pt;
+}
+table#t2{
+margin-left:30%;
+}
+p{
+font-family: 'Roboto Condensed', sans-serif;
+color:rgb(132, 136, 139);
+}

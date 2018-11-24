@@ -1,0 +1,71 @@
+﻿@charset "UTF-8"; 
+
+
+fieldset#geral{
+position:relative;
+background-color:#fff;
+height: 1050px;
+ border-width: 1px 1px 1px 1px;
+}
+
+fieldset#t1{
+position:relative;
+background-color:#fff;
+margin-top: 0.5%;
+margin-left: 55%;
+width:40%;
+height: 420px;	
+}
+fieldset#t2{
+position:relative;
+background-color:#fff;
+margin-top: -28.6%;
+margin-left: 5%;
+width:40%;	
+height: 420px;
+}
+fieldset#t3{
+position:relative;
+background-color:#fff;
+margin-top: 2%;
+margin-top: 30%;
+margin-left: 5%;
+width:40%;	
+height: 420px;
+}
+input.volta{
+position: relative;
+margin-top: 2%;
+margin-left:44.5%;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+input.proximo{
+position: relative;
+background-color: #1E90FF;
+border-color:#1E90FF;
+color:#fff;
+font-family: 'Roboto', sans-serif;
+}
+label{
+font-family: 'Roboto Condensed', sans-serif;
+font-size:12pt;
+}
+table#t2{
+margin-left:30%;
+}
+div#fim h2{
+text-align:center;
+}
+div#fim img{
+margin-left: 36.4%;
+}
+div#fim input{
+margin-top: 1%;
+margin-left: 44.5%;
+}
+h2{
+font-family: 'Roboto Condensed', sans-serif;
+}
